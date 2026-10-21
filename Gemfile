@@ -50,4 +50,4 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem "json", "~> 2.10"
+gem "json", "~> 3.1"
